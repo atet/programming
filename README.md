@@ -1,4 +1,4 @@
-# [atet](https://github.com/atet) / [learn](https://github.com/atet/learn/blob/master/README.md#atet--learn) / [**_programming_**](https://github.com/atet/learn/blob/master/programming/README.md#atet--learn--programming)
+# [atet](https://github.com/atet) / [**_programming_**](https://github.com/atet/programming?tab=readme-ov-file#atet--programming)
 
 [![.img/logo_r.png](.img/logo_r.png)](#nolink)
 
@@ -399,7 +399,7 @@ print("Loop Done!")
 
 * Sometimes it helps to visualize what a loop is doing step-by-step
 * The animation below shows what we just ran with the code above
-   * Note: [Click here to see the loop animation frame-by-frame](https://github.com/atet/learn/blob/master/programming/.img/step06c/README.md#atet--learn--programming)
+   * Note: [Click here to see the loop animation frame-by-frame](https://github.com/atet/programming/blob/main/.img/step06c/README.md#atet--learn--programming)
 
 [![.img/step06c.gif](.img/step06c.gif)](#nolink)
 
