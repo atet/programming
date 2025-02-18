@@ -1,8 +1,8 @@
-# [atet](https://github.com/atet) / [learn](https://github.com/atet/learn/blob/master/README.md#atet--learn) / [**_programming_**](https://github.com/atet/learn/blob/master/programming/README.md#atet--learn--programming)
+# [atet](https://github.com/atet) / [**_programming_**](https://github.com/atet/programming?tab=readme-ov-file#atet--programming)
 
 # Loop Animation Frame-by-Frame
 
-* [Click here to go back to tutorial](https://github.com/atet/learn/blob/master/programming/README.md#loop-concept)
+**[Click here to go back to tutorial](https://github.com/atet/programming/blob/main/README.md#loop-concept)**
 
 ## Loop Concept Animation
 
@@ -39,5 +39,7 @@
 [![Frame_00013.png](Frame_00013.png)](#nolink)
 
 [![Frame_00014.png](Frame_00014.png)](#nolink)
+
+**[Click here to go back to tutorial](https://github.com/atet/programming/blob/main/README.md#loop-concept)**
 
 [Back to Top](#loop-animation-frame-by-frame)
